@@ -1,0 +1,68 @@
+body {
+    background-color: #edfded;
+}
+
+input{
+    text-align:center;
+}
+
+.imgHangman {
+    width: 400px;
+    height: 500px;
+}
+
+.theme{
+    color: darkblue;
+    font-size: 30px;
+}
+
+.alpha {
+    width: 40px;
+    height: 40px;
+    background-color: gray;
+    color: white;
+    border-radius: 9px;
+    font-size: 30px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    text-align: center;
+    vertical-align: text-top;
+}
+
+#play {
+    width: 300px;
+    font-size:25px;
+}
+
+.score {
+    width: 250px;
+    height: 150px;
+    background-color: lightblue;
+    border-radius: 9px;
+    font-size: 30px;
+    color: #515151;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#msg{
+    width: 350px;
+    height: 50px;
+    border-color: #800020;
+    font-size: 20px;
+    color: #800020;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.center {
+    float: none;
+    margin-left: 50px;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
